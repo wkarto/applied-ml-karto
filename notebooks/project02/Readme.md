@@ -69,7 +69,6 @@ For additional credit, the same EDA and preparation process is applied to the **
 **Name:** Womenker Karto  
 **Date:** October 28, 2025  
 **Course:** Project 02 — Data Features (Titanic)
-
 ---
 
 
