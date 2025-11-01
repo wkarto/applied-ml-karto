@@ -1,7 +1,7 @@
 # Project 3 – Titanic Classifier
 
-**Author:** Your Name  
-**Date:** YYYY-MM-DD  
+**Author:** Womenker Karto
+**Date:** 2025-11-01  
 
 ## Introduction
 This project uses the Titanic dataset to build and evaluate three classification models: Decision Tree, Support Vector Machine (SVM), and Neural Network (MLP). The goal is to predict passenger survival based on selected features and compare model performance.  
