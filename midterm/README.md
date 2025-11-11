@@ -1,6 +1,6 @@
 # Midterm Project: Classification Analysis — Titanic Survival Prediction
 
-**Author:** Womenker KArto 
+**Author:** Womenker Karto 
 **Date:** 2025-11-10
 
 ---
@@ -126,7 +126,7 @@ Future improvements could include hyperparameter tuning, feature interactions, o
 ---
 
 ## Links
-- [Notebook](./midterm/midterm_project_karto.ipynb)  
-- [Peer Review - peer_review.md](./midterm/peer_review.md)
+- [Notebook](./midterm_project_karto.ipynb)  
+- [Peer Review - peer_review.md](./peer_review.md)
 
 ---
