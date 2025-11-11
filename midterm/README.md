@@ -1,7 +1,7 @@
 # Midterm Project: Classification Analysis — Titanic Survival Prediction
 
-**Author:** Ankit Singh  
-**Date:** November 2025  
+**Author:** Womenker KArto 
+**Date:** 2025-11-10
 
 ---
 
@@ -20,7 +20,7 @@ This notebook demonstrates:
 
 ## Dataset Information
 
-**Dataset:** [Titanic - Machine Learning from Disaster (Kaggle)](https://www.kaggle.com/c/titanic)  
+**Dataset:** Titanic 
 **Target Variable:** `Survived` (1 = Survived, 0 = Did not survive)
 
 **Selected Features:**
@@ -40,8 +40,8 @@ This notebook demonstrates:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/ml_classification_ankitsingh.git
-cd ml_classification_ankitsingh
+git clone https://github.com/wkarto/applied-ml-karto.git
+cd midterm
 ```
 
 ### 2. Create and Activate Virtual Environment
@@ -58,7 +58,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ### 4. Run the Notebook
 
-Open classification_ankitsingh.ipynb and run all cells in order.
+Open midterm_project_karto.ipynb and run all cells in order.
 
 ---
 
