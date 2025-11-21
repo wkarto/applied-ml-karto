@@ -13,3 +13,4 @@ Projects index:
 - [**Project 02: Titanic Dataset Analysis**](project02/README.md)
 - [**Project 03: Titanic Classifier**](project03/README.md)
 - [**Project 04: Continuous Target Prediction Using Regression (Titanic)**](project04/README.md)
+- [**Project 05: Ensemble Machine Learning (Wine & Spiral Classification)**](project05/README.md)
